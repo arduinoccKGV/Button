@@ -1,3 +1,9 @@
+apm link
+
+apm config set strict-ssl false /If you are behind a firewall and seeing SSL errors when installing packages you can disable strict SSL by running:/
+
+
+
 Atom edit 
 neues Projekt
 

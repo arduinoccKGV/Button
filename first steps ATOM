@@ -14,3 +14,5 @@ https://www.hackster.io/reanimationxp/amazon-re-invent-dash-button-aws-ifttt-inf
 
 
 https://us-west-2.console.aws.amazon.com/lambda/home?region=us-west-2#/functions?display=list
+
+https://us-west-2.console.aws.amazon.com/dynamodb/home?region=us-west-2#tables:selected=iot-buttons
